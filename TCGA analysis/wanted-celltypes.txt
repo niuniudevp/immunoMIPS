@@ -1,0 +1,38 @@
+aDC
+B-cells
+Basophils
+CD4+ memory T-cells
+CD4+ naive T-cells
+CD4+ T-cells
+CD4+ Tcm
+CD4+ Tem
+CD8+ naive T-cells
+CD8+ T-cells
+CD8+ Tcm
+CD8+ Tem
+cDC
+CLP
+CMP
+DC
+Endothelial cells
+Eosinophils
+Fibroblasts
+GMP
+Macrophages
+Macrophages M1
+Macrophages M2
+Mast cells
+Megakaryocytes
+MEP
+Monocytes
+MPP
+Neutrophils
+NK cells
+NKT
+pDC
+Plasma cells
+Platelets
+Tgd cells
+Th1 cells
+Th2 cells
+Tregs

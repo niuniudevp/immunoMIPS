@@ -1,0 +1,13 @@
+sample	condition
+Gwatac_1	Vector_0g
+Gwatac_2	Vector_0g
+Gwatac_3	Vector_0g
+Gwatac_4	Vector_10g
+Gwatac_5	Vector_10g
+Gwatac_6	Vector_10g
+Gwatac_7	sgMll2_0g
+Gwatac_8	sgMll2_0g
+Gwatac_9	sgMll2_0g
+Gwatac_10	sgMll2_10g
+Gwatac_11	sgMll2_10g
+Gwatac_12	sgMll2_10g
